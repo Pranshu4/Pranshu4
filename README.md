@@ -1,4 +1,4 @@
-<h1 align="center">Hi ??, I'm Pranshu Pal</h1>
+<h1 align="center">Hi, I'm Pranshu Pal</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
 <img align = "right" alt ="image"width ="400" src ="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
 
