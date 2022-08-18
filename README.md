@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/PranshuPal4" target="blank"><img src="https://img.shields.io/twitter/follow/pranshu_pal?logo=twitter&style=for-the-badge" alt="Pranshu_Pal" /></a> </p>
 
-- ?? I’m currently learning **Java backend, MySQL, SBMS, Hibernet.**
+ - I’m currently learning **Java backend, MySQL, SBMS, Hibernet.**
 
-- ?? Ask me about **JAVA, HTML, CSS, DBMS(Oracle)**
+- Ask me about **JAVA, HTML, CSS, DBMS(Oracle)**
 
-- ?? How to reach me **pranshupal4@gmail.com**
+- How to reach me **pranshupal4@gmail.com**
 
-- ?? Know about my experiences [https://drive.google.com/file/d/1bLXMLLbfEqVbLVSinnIolqLNWqNVasx0/view?usp=sharing]
+- Know about my experiences [https://drive.google.com/file/d/1bLXMLLbfEqVbLVSinnIolqLNWqNVasx0/view?usp=sharing]
 
-- ? Fun fact **I am funny.**
+- Fun fact **I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
