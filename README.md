@@ -1,30 +1,67 @@
-<h1 align="center">Hi, I'm Pranshu Pal</h1>
-<h3 align="center">A passionate backend developer from India.</h3>
-<img align = "right" alt ="image"width ="400" src ="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
+<h1 align="center">Hi 👋, I'm Pranshu Pal</h1>
+<h3 >A Passionate Java Backend Developer with the ability to write clean, reusable, and optimized code. I have experience and skill sets to achieve the short-term and long-term goals that have been put into a good industry. I like to know the recent development in all fields and their development procedure. I like to explore new locations whenever I get the time !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allushubham&label=Profile%20views&color=0e75b6&style=flat" alt="pranshupal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu4&label=Profile%20views&color=0e75b6&style=flat" alt="pranshu4" /> </p>
 
-<p align="left"> <a href="https://twitter.com/PranshuPal4" target="blank"><img src="https://img.shields.io/twitter/follow/pranshu_pal?logo=twitter&style=for-the-badge" alt="Pranshu_Pal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranshu4" alt="pranshu4" /></a> </p>
 
- - I’m currently learning **Java backend, MySQL, SBMS, Hibernet.**
+<p align="left"> <a href="https://twitter.com/PranshuPal4" target="blank"><img src="https://img.shields.io/twitter/follow/PranshuPal4?logo=twitter&style=for-the-badge" alt="PranshuPal4" /></a> </p>
 
-- Ask me about **JAVA, HTML, CSS, DBMS(Oracle)**
+- 🌱 I’m currently learning **Java backend, SBMS, Hibernet**
 
-- How to reach me **pranshupal4@gmail.com**
+- ➥ Here is my Resume:  [Portfolio](https://pranshu4.github.io/)
 
-- Know about my experiences [https://drive.google.com/file/d/1bLXMLLbfEqVbLVSinnIolqLNWqNVasx0/view?usp=sharing]
+- 💬 Ask me about **JAVA, DBMS(mysql)**
 
-- Fun fact **I am funny.**
+- 📫 How to reach me **pranshupal4@gmail.com**
+
+- ➥ Here is my Portfolio : [Resume](https://drive.google.com/file/d/1bLXMLLbfEqVbLVSinnIolqLNWqNVasx0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/PranshuPal4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PranshuPal4" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pranshu-pal-a35443150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranshu-pal-7a1741243" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranshu-pal-a35443150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranshu-pal-a35443150" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java 8" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+     <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring-Boot" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+   
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranshu&show_icons=true&locale=en&layout=compact" alt="pranshu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranshu&show_icons=true&locale=en" alt="pranshu" /></p>
+## 📊 My Github Stats
+
+  <br/>
+   <a href="https://github.com/pranshu4/github-readme-stats"><img alt="pranshu4's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/pranshu4/github-readme-stats"><img alt="pranshu4's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranshu4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
+  <br/>
+
+<p align="center">
+    <a href="https://github.com/pranshu4/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pranshu4's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<br/>
+<br/>
+
+<a href="https://github.com/pranshu4/github-readme-activity-graph"><img alt="pranshu4's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pranshu4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+Thanks for Visiting...
